@@ -1,4 +1,443 @@
 #EXTM3U size="big"
+#EXTINF:-1 tvg-name="Jogada da Vida" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLa66AiUPE7BlvgKPMprmzhg8dMoBOKkIgS_yrXH8K-9c.jpg" group-title="Aventura",Jogada da Vida
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/300479.mp4
+#EXTINF:-1 tvg-name="A Irmandade (2001)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYj3ncK8kF-4uvAs5EWt_1VBpJjwjpFxaljsXVnfOVuQ.jpg" group-title="Aventura",A Irmandade (2001)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/297257.mp4
+#EXTINF:-1 tvg-name="Canguru Jack (2003)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7cdNvKpFimEXogm5xNJm81qrSlPwJFj01NQZqW7X4aU.jpg" group-title="Aventura",Canguru Jack (2003)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/296182.mp4
+#EXTINF:-1 tvg-name="O Verão que Mudou Tudo" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4Cisx5hfEAgnN4RVjl_4E7NcYevumg7mh-bFlv6AlFE.jpg" group-title="Aventura",O Verão que Mudou Tudo
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/293839.mp4
+#EXTINF:-1 tvg-name="Valatty: Jornada de Amor e Amizade (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL8Ce8BMigBdA5ZKfyvd90SpZUnvyTKTQXtP3kxSgRFj8.jpg" group-title="Aventura",Valatty: Jornada de Amor e Amizade (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/288752.mp4
+#EXTINF:-1 tvg-name="Um Mundo Encantado 2" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLINIpIEtADyAQ8f2DbltNsAFGXVAEV2uP_PTjCTn94a4.jpg" group-title="Aventura",Um Mundo Encantado 2
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/283739.mp4
+#EXTINF:-1 tvg-name="Ultraman Taiga: Clímax da Nova Geração (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRiKPqwzkwvYPS0R8MNeHcxidxTIRg-72MOBpgkIfO1k.jpg" group-title="Aventura",Ultraman Taiga: Clímax da Nova Geração (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/283718.mp4
+#EXTINF:-1 tvg-name="O Ultimo Mestre do Ar (2010)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjeUW_zipVmVI4lS-hUZyyBQ8lazAO_RtxKIqgCb0E-k.jpg" group-title="Aventura",O Ultimo Mestre do Ar (2010)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/278842.mp4
+#EXTINF:-1 tvg-name="Supermarsu 2 (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLMQJJPggJhaBSNIaw0oJEgJRg6FvOaliXPDvI2uilHTE.jpg" group-title="Aventura",Supermarsu 2 (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/279548.mp4
+#EXTINF:-1 tvg-name="Em Busca do Portal Mágico (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7hDMgGvGpNCk9nSfeYdsiTsY9Wi6mgts00qwvtRA3vA.jpg" group-title="Aventura",Em Busca do Portal Mágico (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/279077.mp4
+#EXTINF:-1 tvg-name="A Lenda: Em Busca do Medalhão Sagrado" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSdDJQozZz5tFQt9SjGLZLAWZdS9X2-UPq11Gm5HClXM.jpg" group-title="Aventura",A Lenda: Em Busca do Medalhão Sagrado
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/278261.mp4
+#EXTINF:-1 tvg-name="O Impossível (2012)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLP31mquf7DXP6iLFStoj1XTAMhbagSwG8_PEYFTGjb4.jpg" group-title="Aventura",O Impossível (2012)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/275938.mp4
+#EXTINF:-1 tvg-name="Senhor do Vento (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLP0SKMWKWt1oaghpGDccpl6go9KsgGXtuhUjBBdLKHbQ.jpg" group-title="Aventura",Senhor do Vento (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/274865.mp4
+#EXTINF:-1 tvg-name="A Última Jornada de Paul W.R. (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLjTC_ZyUrmFdcWO8coLkK5ZTJx8vYvOtLbSmEUNiQRU.jpg" group-title="Aventura",A Última Jornada de Paul W.R. (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/272143.mp4
+#EXTINF:-1 tvg-name="Fúria da Natureza (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDTa0NYgJbrS7zYuJNgSC88YWWRHpYL6kFqIE_1aLmxY.jpg" group-title="Aventura",Fúria da Natureza (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/272139.mp4
+#EXTINF:-1 tvg-name="Winter, o Golfinho 2 (2014)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLVbK3RgQvuHtxnovfpvAXwvJPmUZJ4w2OArqGsxZ_Vco.jpg" group-title="Aventura",Winter, o Golfinho 2 (2014)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/272078.mp4
+#EXTINF:-1 tvg-name="Winter, o Golfinho (2011)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLU38FdgcAwJzb9kAjFmSSU-xonKHtMfVfDFQqB2T-FP4.jpg" group-title="Aventura",Winter, o Golfinho (2011)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/272077.mp4
+#EXTINF:-1 tvg-name="A Viking Saga: The Darkest Day (2013)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfHUo_WAnaFnHw_1xteMF6Ghi3arv2X-dHH7jEzGy9AI.jpg" group-title="Aventura",A Viking Saga: The Darkest Day (2013)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/270706.mp4
+#EXTINF:-1 tvg-name="A Única Sobrevivente (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQEdhQF7E5GNbiBehl2wcwQrcLhHx8zS1JHvMmQUyqHo.jpg" group-title="Aventura",A Única Sobrevivente (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/268806.mp4
+#EXTINF:-1 tvg-name="Oddball e os Pinguins (2015)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLy8tP07X53Bg1V5iXKfq4vpF6-950H8Djnz_GdOG-oSA.jpg" group-title="Aventura",Oddball e os Pinguins (2015)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/268656.mp4
+#EXTINF:-1 tvg-name="Free Willy - A Grande Fuga (2010)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2MLjLWLGVPg45YLUz4JSGbpS0LmdU0OpV-SfPICIt8Q.jpg" group-title="Aventura",Free Willy - A Grande Fuga (2010)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/268490.mp4
+#EXTINF:-1 tvg-name="Free Willy 3 - O Resgate (1997)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL14Lj5f95rvaO1v1umlsSOXPYLeNWXxSe8_8Vbz3LjyI.jpg" group-title="Aventura",Free Willy 3 - O Resgate (1997)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/268489.mp4
+#EXTINF:-1 tvg-name="Free Willy 2 - A Aventura Continua (1995)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL8YGgPJ441Ak1FDee1Pw7MLWhIG7DgQ4XOCg1F6ecShk.jpg" group-title="Aventura",Free Willy 2 - A Aventura Continua (1995)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/268488.mp4
+#EXTINF:-1 tvg-name="Free Willy (1993)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLE3R7R42Jr2D8rFHMELQ6Rn5myIvv8jO4-miNw3xvkdE.jpg" group-title="Aventura",Free Willy (1993)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/268487.mp4
+#EXTINF:-1 tvg-name="Robin Hood: A Origem (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYgJ9IEevTJm2G0HIyYMckxq172uiwNrTd4UuVL-0LNo.jpg" group-title="Aventura",Robin Hood: A Origem (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/267622.mp4
+#EXTINF:-1 tvg-name="Z: A Cidade Perdida (2017)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLA2Z8CxC7LVvReHJkcTFQ9RiE3PA6mDpb4Nd7x9rYr9I.jpg" group-title="Aventura",Z: A Cidade Perdida (2017)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/267114.mp4
+#EXTINF:-1 tvg-name="O Troll da Montanha (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJV1QTKu7h6fXrs47Mr9XXONTIR6EZn5v5ocmMppJnXM.jpg" group-title="Aventura",O Troll da Montanha (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/266972.mp4
+#EXTINF:-1 tvg-name="Coração de Tinta: O Livro Mágico (2008)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEcEJ5f0oObqgo81AhMim0awEZ5X2vrnM86WIk9IXyCM.jpg" group-title="Aventura",Coração de Tinta: O Livro Mágico (2008)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/266958.mp4
+#EXTINF:-1 tvg-name="A Batalha de um Guerreiro (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWV5F_ARXDxcZayoU2fggb2Yi8nO4E_6mJtB4-ZQX1wk.jpg" group-title="Aventura",A Batalha de um Guerreiro (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/266664.mp4
+#EXTINF:-1 tvg-name="Cão Espião (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTx5mQCURALEJFbSdqaV7UCd4ZJzmISK8794-KpEoU40.jpg" group-title="Aventura",Cão Espião (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/265984.mp4
+#EXTINF:-1 tvg-name="Coração de Cavaleiro (2001)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLs49DEBir0M2921d5JL4CWAZglGKO7_350QOmv9zkXNA.jpg" group-title="Aventura",Coração de Cavaleiro (2001)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/263249.mp4
+#EXTINF:-1 tvg-name="Jurassic Park 3 (2001)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEJQPPbfLdltcUhG9SuEr7GMJOkxTWgvJXATAuiWOU1U.jpg" group-title="Aventura",Jurassic Park 3 (2001)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/261627.mp4
+#EXTINF:-1 tvg-name="O Mundo Perdido: Jurassic Park (1997)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPMnFtxU5NhoAhx7tWqmKM9WvYnqJqoYfrxi_Eg6kohU.jpg" group-title="Aventura",O Mundo Perdido: Jurassic Park (1997)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/261622.mp4
+#EXTINF:-1 tvg-name="Jurassic Park: O Parque dos Dinossauros (1993)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFsujE1VBXXxKY31vB_GI1PpB4Q1NV8HViwCcKzqu9hg.jpg" group-title="Aventura",Jurassic Park: O Parque dos Dinossauros (1993)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/261620.mp4
+#EXTINF:-1 tvg-name="Tomorrowland: Um Lugar Onde Nada É Impossível (2015)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSMKEhpjdKbZHtAtPTZ7JoSabJNvOyRE9Qs6fuqjsO48.jpg" group-title="Aventura",Tomorrowland: Um Lugar Onde Nada É Impossível (2015)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/260338.mp4
+#EXTINF:-1 tvg-name="Cidades de Papel (2015)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL8Sx7HWSiDP1HiQ1DPtZ2AEbEcKLzKalNdkaMpA_tzHM.jpg" group-title="Aventura",Cidades de Papel (2015)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/260337.mp4
+#EXTINF:-1 tvg-name="Evereste (2015)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPD28HqKG7SymWOVWdXq0WDuGZglIyuL4cTLyceg5Z-4.jpg" group-title="Aventura",Evereste (2015)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/260336.mp4
+#EXTINF:-1 tvg-name="Goosebumps 2: Halloween Assombrado (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrfASkD9u7-poUg0ft9QKsjxNI8_YiQ5838bErKyl2YY.jpg" group-title="Aventura",Goosebumps 2: Halloween Assombrado (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/260335.mp4
+#EXTINF:-1 tvg-name="Goosebumps: Monstros e Arrepios (2015)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGTPXh6mm87dGZk5lCoOMxpmY7oYlYrEjC5Bw14hxcYI.jpg" group-title="Aventura",Goosebumps: Monstros e Arrepios (2015)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/260334.mp4
+#EXTINF:-1 tvg-name="King Kong (2005)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-NDAtAhpengEYJdzOPPmTZwygLIRm6jksVeIQ2FgqNw.jpg" group-title="Aventura",King Kong (2005)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/259150.mp4
+#EXTINF:-1 tvg-name="A Manobra da Tartaruga (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLu9qvJT5sX1nAIsmAy0IZ0K5OY4wrtdB2Wbkv9t0OGjE.jpg" group-title="Aventura",A Manobra da Tartaruga (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/258951.mp4
+#EXTINF:-1 tvg-name="O Segredo de Mercator (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLs6e3EqUrjkALmaf96CkwX2j6IaWpvGiBSwbFaNRnz9I.jpg" group-title="Aventura",O Segredo de Mercator (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/258653.mp4
+#EXTINF:-1 tvg-name="Hércules (2014)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwAJJFkCAcB0LD55eEZX5uraiycypbpzJwBSnSXLMR7w.jpg" group-title="Aventura",Hércules (2014)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/256254.mp4
+#EXTINF:-1 tvg-name="Heidi (2015)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqIhDCixioiZiWjJ2UyIG8cPw-LNG9b59vRbRgfbR5pc.jpg" group-title="Aventura",Heidi (2015)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/257278.mp4
+#EXTINF:-1 tvg-name="Bem-vindo à Selva (2003)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUVm3xlaRfsS7D8sV6ssi_ppg89KknoW_hReViLoqPLY.jpg" group-title="Aventura",Bem-vindo à Selva (2003)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/257275.mp4
+#EXTINF:-1 tvg-name="Chapeuzinho Vermelho: Herança de Família (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLXP1LRW1hnM9K3stNEpfAYgo0xiCzE76t1GD7gDYxdSE.jpg" group-title="Aventura",Chapeuzinho Vermelho: Herança de Família (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/256869.mp4
+#EXTINF:-1 tvg-name="As Férias Assustadoras de Nelly Rapp (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTGQ7rG8pX7eYIVEAt3lMVX3UlkxTr2deEVsFYcXo3RA.jpg" group-title="Aventura",As Férias Assustadoras de Nelly Rapp (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/256867.mp4
+#EXTINF:-1 tvg-name="Uma Jornada na África (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLj3q1ySmzNp8ZfiDCEdPFlk8fhU7nfEiq-2frvInugKo.jpg" group-title="Aventura",Uma Jornada na África (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/255467.mp4
+#EXTINF:-1 tvg-name="A Bússola Mágica (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGXrR14wrwkizDXsPbzAekISD2HGiZeSH5GCMltECrcI.jpg" group-title="Aventura",A Bússola Mágica (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/254105.mp4
+#EXTINF:-1 tvg-name="Duelo de Espiões (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnILj0fp1xQVrKuJC_3ElRzcQoBGMAzBelkdSzMMu660.jpg" group-title="Aventura",Duelo de Espiões (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/254103.mp4
+#EXTINF:-1 tvg-name="Foxter & Max: Um Cachorro de Outro Mundo (2019)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFkNBhrZhwkuQkZCmDddtGmGbytn7Z8relb-ED0rAfN0.jpg" group-title="Aventura",Foxter & Max: Um Cachorro de Outro Mundo (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/252850.mp4
+#EXTINF:-1 tvg-name="Os Caçadores da Biblioteca Perdida (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLl8FtTKiV9qbIpGcMMzeoR1C5MTgxOfbmCjOXJmuKY0A.jpg" group-title="Aventura",Os Caçadores da Biblioteca Perdida (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/252795.mp4
+#EXTINF:-1 tvg-name="Slime - Uma Aventura Pegajosa (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrifcNtP1S5tfHAODjmyEHoDU8cZNoawCYxgne0KqtMM.jpg" group-title="Aventura",Slime - Uma Aventura Pegajosa (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/251689.mp4
+#EXTINF:-1 tvg-name="Com as Próprias Mãos (2004)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyNLFtozV6PSVKjbIgkxO0_qEG7cgPX3UU7e2O4PJVdU.jpg" group-title="Aventura",Com as Próprias Mãos (2004)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/250688.mp4
+#EXTINF:-1 tvg-name="A Última Onça Negra" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL220_4_Jbwu7iuUQ-WijEKiq_SNfsmbTbIzAjFjNB1wM.jpg" group-title="Aventura",A Última Onça Negra
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/250169.mp4
+#EXTINF:-1 tvg-name="Conexões Perigosas (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpLMfzpwkiquUWnkFWJd91VUKkuTlxaKo8hUKq7k1NKQ.jpg" group-title="Aventura",Conexões Perigosas (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/250124.mp4
+#EXTINF:-1 tvg-name="A Menina e o Dragão" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpVRgp_HXgV2VJ16wEhkBlZgL_U-j2t8SAnJX_Bm3jJs.jpg" group-title="Aventura",A Menina e o Dragão
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/249788.mp4
+#EXTINF:-1 tvg-name="Quatro Vidas de um Cachorro (2017)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvhgXB2wLCwy7sbfmqeu2RNIeFo_7JRLO_MOrVjX9toc.jpg" group-title="Aventura",Quatro Vidas de um Cachorro (2017)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/249563.mp4
+#EXTINF:-1 tvg-name="O Armário Mágico" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSk0yRoNeJf9UkPdc_GaBlCU-8FnwMBhwE_4rfmFshvM.jpg" group-title="Aventura",O Armário Mágico
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/249514.mp4
+#EXTINF:-1 tvg-name="Manobra Radical (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9ngOXSKsWd_xhCaFzqS384AL32Ldl_0joVzq3lwjjkk.jpg" group-title="Aventura",Manobra Radical (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/249423.mp4
+#EXTINF:-1 tvg-name="Lobisomens" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBlxp2ObVkORWf6XXfeyKxQPX_-4S8mkbSXqjTS8BUTo.jpg" group-title="Aventura",Lobisomens
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/249426.mp4
+#EXTINF:-1 tvg-name="Karsmênia (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLF6u4oBoEbOQX4McJ3yrAGTk-QXJNCgW_IPL1ZtzRnYc.jpg" group-title="Aventura",Karsmênia (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/249309.mp4
+#EXTINF:-1 tvg-name="Em Busca do Anel Perdido (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL7wSL_SsQjPbi-YGelBgJZ5UE419d0FL04VKEz8oyGjA.jpg" group-title="Aventura",Em Busca do Anel Perdido (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/249101.mp4
+#EXTINF:-1 tvg-name="O Clube do Tesouro" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLkg9caM-jxzsm1brH02NC4O_zBBw2ZEYIrQLipFLgMY.jpg" group-title="Aventura",O Clube do Tesouro
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/248978.mp4
+#EXTINF:-1 tvg-name="Guerreiros no Espaço (2013)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNaKnrL7-n_ceaMq-k7si6jJ6U9sU6JLwz9pcvarvlSM.jpg" group-title="Aventura",Guerreiros no Espaço (2013)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/248612.mp4
+#EXTINF:-1 tvg-name="Harold e o Lápis Mágico" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLVk2nz9KD1A2uo3B2XTDpw0YLNTQR1zoWyNe8_pr3TcE.jpg" group-title="Aventura",Harold e o Lápis Mágico
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/248269.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Jack Mimoun (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLy0dkNW8f0WVEMFYLbjdsyrNQlEx--Fvi6rRJat2vTQM.jpg" group-title="Aventura",As Aventuras de Jack Mimoun (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/247367.mp4
+#EXTINF:-1 tvg-name="Luccas e Gi em: Dinossauros" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQvBzn6f9d_MjUH4IAYgY0UFEuO6WfS1wTFU9mKa4Ptg.jpg" group-title="Aventura",Luccas e Gi em: Dinossauros
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/247360.mp4
+#EXTINF:-1 tvg-name="General Hadik (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkLplDnp5JK41fSzAIVp-lv_qeqxi0kIkaJFMsmB6XSE.jpg" group-title="Aventura",General Hadik (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/247328.mp4
+#EXTINF:-1 tvg-name="Cruzada (2005)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9pWb5NgfewKrdR7Ez5tOZvVNzOxiZnsQydHirBtdRxI.jpg" group-title="Aventura",Cruzada (2005)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/240097.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Lady Marian (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfr34foV4iAqq2Xd_FwWV2-2ak5Yzbk8Ja67aLrHXkxo.jpg" group-title="Aventura",As Aventuras de Lady Marian (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/238968.mp4
+#EXTINF:-1 tvg-name="Em Busca do Barco Perdido (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLt104ChIFnx_i0JniqENhiIdlO3KN1ip-z_JU8_m4bvY.jpg" group-title="Aventura",Em Busca do Barco Perdido (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/238949.mp4
+#EXTINF:-1 tvg-name="Nelly Rapp e o Espelho da Morte (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLAvZANTqbGn-N8JZFyJMsNkLT64cnc6JYWZ5eqwFtjlo.jpg" group-title="Aventura",Nelly Rapp e o Espelho da Morte (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/238631.mp4
+#EXTINF:-1 tvg-name="Golden Kamuy" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuuv3-2VwS6Tp54KdhtIEajtkpCLzBY1F1KFQQrTEB9U.jpg" group-title="Aventura",Golden Kamuy
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/238368.mp4
+#EXTINF:-1 tvg-name="O Triângulo da Morte (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtIHyzsOSWj8Mnf7COzBTQx9tC2O0rmrNoCbeNuN4xJA.jpg" group-title="Aventura",O Triângulo da Morte (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/237598.mp4
+#EXTINF:-1 tvg-name="Amor à Venda (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyCFQ3SVrD4LzUmDtWFTAhpIU-GHjR0R-EbihELTBSGE.jpg" group-title="Aventura",Amor à Venda (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/237593.mp4
+#EXTINF:-1 tvg-name="Eu, Capitão (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4M_zxM9cxPaMYHa16905W_0kXkzNJclU-1iqVEbbXto.jpg" group-title="Aventura",Eu, Capitão (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/236551.mp4
+#EXTINF:-1 tvg-name="Príncipe Lu e a Lenda do Dragão" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL49oqRcH46bTSdUup9gthHbBtIAr6Z20Mt5HPUAGhO3k.jpg" group-title="Aventura",Príncipe Lu e a Lenda do Dragão
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/236533.mp4
+#EXTINF:-1 tvg-name="Os Três Mosqueteiros: Milady (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-QF2hlhzS__44YcoBz6U3o0I2itUhnVtShUTeayRUwA.jpg" group-title="Aventura",Os Três Mosqueteiros: Milady (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/232926.mp4
+#EXTINF:-1 tvg-name="Pipeline: O Grande Roubo (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2IzrcY4xM1c2m8d0xsUIj_BB_hLOAEdXvkS9vHrQKM4.jpg" group-title="Aventura",Pipeline: O Grande Roubo (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/91137.mp4
+#EXTINF:-1 tvg-name="Os Piratas da Rua Debaixo (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLR4R4nbuVwLdckKhY2n1pOKciiu_M298AtnJEnqkubLc.jpg" group-title="Aventura",Os Piratas da Rua Debaixo (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/227968.mp4
+#EXTINF:-1 tvg-name="Gump: Uma Lição de Vida (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzLSpr-J7l2APb0IdKtTMi921bh8Tubt17Qjf6-Qayi4.jpg" group-title="Aventura",Gump: Uma Lição de Vida (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/227953.mp4
+#EXTINF:-1 tvg-name="Cão e Gato" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFQv3U1-s76jcvCU0ke3_LPxX1vi_V9ZU0v0YGSTUX-o.jpg" group-title="Aventura",Cão e Gato
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/226699.mp4
+#EXTINF:-1 tvg-name="Gato Galáctico e O Feitiço do Tempo" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYnnmwkNrkyPm9elVGqTXyzMiDkjt7PQVVANiI0gQXSY.jpg" group-title="Aventura",Gato Galáctico e O Feitiço do Tempo
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/226701.mp4
+#EXTINF:-1 tvg-name="O Livro de Clarence" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9YBOTRpXEcQzcnoeow0nH5E-grumsDKecY3ozLxBEko.jpg" group-title="Aventura",O Livro de Clarence
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/225711.mp4
+#EXTINF:-1 tvg-name="O Garoto de Vidro (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpUpPbhOTyRbIlvkrFw-ReT27iZD6w3Ji4-FStOUIy2I.jpg" group-title="Aventura",O Garoto de Vidro (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/225704.mp4
+#EXTINF:-1 tvg-name="Ainbo: A Guerreira da Amazônia (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDHMfz52iMevtUWYO0SFrva954ZUjBlYQ5J3n7o6_FqQ.jpg" group-title="Aventura",Ainbo: A Guerreira da Amazônia (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/91100.mp4
+#EXTINF:-1 tvg-name="A Lenda do Cavaleiro Verde (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLF7ZYE-63AfGjOS1rtHNDmpjQ9qPWIPAVRuPNUFOhV3g.jpg" group-title="Aventura",A Lenda do Cavaleiro Verde (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/91097.mp4
+#EXTINF:-1 tvg-name="Turma da Mônica Jovem: Reflexos do Medo" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuIJ67Fd5VlSeHzrhNE2ns7uxPWr-5szaSpv9q8cPBZI.jpg" group-title="Aventura",Turma da Mônica Jovem: Reflexos do Medo
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/222998.mp4
+#EXTINF:-1 tvg-name="Ponte para Terabítia (2007)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxOqjjeozwPIwn2j-YLRrD073356UJBpcDVvSZH8qaQQ.jpg" group-title="Aventura",Ponte para Terabítia (2007)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/222505.mp4
+#EXTINF:-1 tvg-name="Blueback: Uma Amizade Profunda (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLHT9LgY9q54QqcLxbTHpxWXL4bZbNawxLt1ob2JHzDg4.jpg" group-title="Aventura",Blueback: Uma Amizade Profunda (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/221972.mp4
+#EXTINF:-1 tvg-name="Sri Asih (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPyIRYpHptwQCYVbb6kaRM7rLxSLl_61oa6M0ywdwLmE.jpg" group-title="Aventura",Sri Asih (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/220859.mp4
+#EXTINF:-1 tvg-name="O Tesouro da Montanha Nebulosa (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQsXB_W7Y7iZSc4NZkegh_WYrBkkMhSWEvPD0Es6ItHk.jpg" group-title="Aventura",O Tesouro da Montanha Nebulosa (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/219382.mp4
+#EXTINF:-1 tvg-name="Charlie: Um Cachorro Especial (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLIZ6JdCR0IyFvpPZj-8_x6HdLw6nSIZM-TivjCzZRoDs.jpg" group-title="Aventura",Charlie: Um Cachorro Especial (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/217509.mp4
+#EXTINF:-1 tvg-name="O Fantasma (1996)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSnAVWe1qgGfKesITq69DiXP8gwin4wfqjOj2t777-BI.jpg" group-title="Aventura",O Fantasma (1996)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/216349.mp4
+#EXTINF:-1 tvg-name="Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSfcLzHW3zOjQljnQzb2nREPp47pwDfUKziAgDXv_ig4.jpg" group-title="Aventura",Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/173069.mp4
+#EXTINF:-1 tvg-name="Jim Knopf e os 13 Piratas (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4ejg0q9JMNu5D-l-M9N1Qeh1IMbPwwvybaeFmahRXOA.jpg" group-title="Aventura",Jim Knopf e os 13 Piratas (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/169597.mp4
+#EXTINF:-1 tvg-name="Ruim pra Cachorro (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmB-BeQenLyhrTTzD6UIlWU89dayhWSy07BRYxIluFqI.jpg" group-title="Aventura",Ruim pra Cachorro (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/163900.mp4
+#EXTINF:-1 tvg-name="A Flauta Mágica (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5Am1Es4acTs60KiyPBTyXR7tZZ5SsIVpjwc53EjhvvA.jpg" group-title="Aventura",A Flauta Mágica (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/160218.mp4
+#EXTINF:-1 tvg-name="O Rapto do Betão (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLp9CJOfDLPU7Qh-fkib_MNF8RM7ZsdOQMqFTpZ4kBTsE.jpg" group-title="Aventura",O Rapto do Betão (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/159804.mp4
+#EXTINF:-1 tvg-name="A Incrível História de Henry Sugar (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvdfqBryLnfoXD0BN5Tzj8I8AibKLd1khLuOrO-z7Z-I.jpg" group-title="Aventura",A Incrível História de Henry Sugar (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/159579.mp4
+#EXTINF:-1 tvg-name="A Cidade Dourada (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhGsYHORBIgsaBonDQBUX6264tqQENwuflkHd0C-CkBk.jpg" group-title="Aventura",A Cidade Dourada (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/159226.mp4
+#EXTINF:-1 tvg-name="Branca de Neve e o Caçador (2012)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1MvsZ99KirMaMtVpHvlXv1Mi33_tR09RoTftL8Io7sJgQmd_JzDiqUfeRBRV0OAMck.jpg" group-title="Aventura",Branca de Neve e o Caçador (2012)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73037.mp4
+#EXTINF:-1 tvg-name="A Saga Crepúsculo: Lua Nova (2009)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1PDbTVLkL-MDLRQCI0bJqNcNc2ab4RTw-4T5sFwsQ3lTo3-B_FByXbcVErTaZTz850.jpg" group-title="Aventura",A Saga Crepúsculo: Lua Nova (2009)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73047.mp4
+#EXTINF:-1 tvg-name="A Saga Crepúsculo: Eclipse (2010)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1O3SazEXWPJCn-4fx3SRFY4Drrz2CeZ1-iklPYyY5ATYQ2CdaG8lViOcncxEkRBE_o.jpg" group-title="Aventura",A Saga Crepúsculo: Eclipse (2010)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73048.mp4
+#EXTINF:-1 tvg-name="A Saga Crepúsculo: Amanhecer - Parte 1 (2011)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1O2PfNylkE76DMR_p4xyx52j959ytBeAU7RFQzhd4IncOqZePl07ZUZ7vavH5tlgtQ.jpg" group-title="Aventura",A Saga Crepúsculo: Amanhecer - Parte 1 (2011)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73049.mp4
+#EXTINF:-1 tvg-name="A Saga Crepúsculo: Amanhecer - Parte 2 (2012)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1MyP1BjKmtUBP31DV9S3HwfvDgnvjv2H3nf61NMNyktX6SKENOz2A8LQqSUOgVWJSY.jpg" group-title="Aventura",A Saga Crepúsculo: Amanhecer - Parte 2 (2012)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73050.mp4
+#EXTINF:-1 tvg-name="Descendentes (2015)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1PC3lbER7rbhAx881ydyQM9gFEezuFqeR6kFBtzoHUHinxPH5fTwBE9bD3ERhSaNjg.jpg" group-title="Aventura",Descendentes (2015)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73051.mp4
+#EXTINF:-1 tvg-name="Hook: A Volta do Capitão Gancho (1991)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4iRmLq7k7PkTMLWNk5lsDVv8yuGc81KYeaUO66qKdtA.jpg" group-title="Aventura",Hook: A Volta do Capitão Gancho (1991)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73065.mp4
+#EXTINF:-1 tvg-name="Indiana Jones e a Última Cruzada (1989)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLt-25xBCE9yyLpjIuaTsZX4OQkdOglH0hlArFnU59myU.jpg" group-title="Aventura",Indiana Jones e a Última Cruzada (1989)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73069.mp4
+#EXTINF:-1 tvg-name="Indiana Jones e o Reino da Caveira de Cristal (2008)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLHU01kdjzVvrGRcE3g2LehwCXY-Vp8yC5__BQkrnvSFI.jpg" group-title="Aventura",Indiana Jones e o Reino da Caveira de Cristal (2008)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73070.mp4
+#EXTINF:-1 tvg-name="Indiana Jones e a Última Cruzada (1989)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLt-25xBCE9yyLpjIuaTsZX4OQkdOglH0hlArFnU59myU.jpg" group-title="Aventura",Indiana Jones e a Última Cruzada (1989)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73071.mp4
+#EXTINF:-1 tvg-name="Labirinto: A Magia do Tempo (1986)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1NWv7lHOTYctYY5zQhvZAgiz-RkuQ4i7AD7lA39b3jd_T2BfhjvQzKRhKV-cM3uvGI.jpg" group-title="Aventura",Labirinto: A Magia do Tempo (1986)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73073.mp4
+#EXTINF:-1 tvg-name="O Bom Gigante Amigo (2016)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1P1OpZamu8HqzKScpAGYRjuv6DPDyhhFB8TJW72bh6FU0VS20ppxTecTdiH1-xqMWU.jpg" group-title="Aventura",O Bom Gigante Amigo (2016)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73076.mp4
+#EXTINF:-1 tvg-name="River Wild (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9i8Qn9gCIOMUeNIW1FbNsV_9jhZKhXJjMFOlG-H4ou4.jpg" group-title="Aventura",River Wild (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/155841.mp4
+#EXTINF:-1 tvg-name="A Fuga do Prisioneiro 614 (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnVYWBZrEroukNk885KAIEMfJMlH2Spq3D6BM6sI670g.jpg" group-title="Aventura",A Fuga do Prisioneiro 614 (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/155818.mp4
+#EXTINF:-1 tvg-name="Sr. Carrinho e os Cavaleiros Templários (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfv0baXqn8mKkOXxMKHW726Pz3hm-dKmebd0vQur6Z_Y.jpg" group-title="Aventura",Sr. Carrinho e os Cavaleiros Templários (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/153525.mp4
+#EXTINF:-1 tvg-name="Belle e Sebastian: Amigos para Sempre (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLssMBhwKLtlpMmPON84LiyepgQbhvxfcEPIeXxFI34LA.jpg" group-title="Aventura",Belle e Sebastian: Amigos para Sempre (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/152426.mp4
+#EXTINF:-1 tvg-name="Dungeons & Dragons: Honra Entre Rebeldes (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUnYcZAepqfwh_SolGzHfajmcbj6atB6hops1LfVHpqY.jpg" group-title="Aventura",Dungeons & Dragons: Honra Entre Rebeldes (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/151729.mp4
+#EXTINF:-1 tvg-name="Meu Amigo Lutcha (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL50e6AXdbBmk9AzyrjnMgidC_9dGDPll-n3wzoQT2rTU.jpg" group-title="Aventura",Meu Amigo Lutcha (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/151596.mp4
+#EXTINF:-1 tvg-name="Perseguição nas Alturas (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLp6rUd7UfKXVimwIO6lFM9dAB1TxGNYuLhv23k5AKN4c.jpg" group-title="Aventura",Perseguição nas Alturas (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/150984.mkv
+#EXTINF:-1 tvg-name="Destemida (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0zxknlcOJpxpjssMaH4zFIrNdD1KaVqIERvVLhDa6vI.jpg" group-title="Aventura",Destemida (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/148717.mp4
+#EXTINF:-1 tvg-name="Jung_E (2023)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLkbpx3XNy9W3FqFDJytdImtTmqBB-OP-QPM28Ggf88C8.jpg" group-title="Aventura",Jung_E (2023)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/148578.mp4
+#EXTINF:-1 tvg-name="Avatar: O Caminho da Água (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLO3vq_BviGlTcg7f6LaWE6wXPhu3js-xVP4o7_WD078I.jpg" group-title="Aventura",Avatar: O Caminho da Água (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/146982.mp4
+#EXTINF:-1 tvg-name="As Aventuras de Tadeo e a Tábua de Esmeralda (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1OrM-jJVCOOooNDpju38LDlLX2LSpw1cN4rQc5C-U9GAuY89XnLGMX2Wbu_bEeVyP4.jpg" group-title="Aventura",As Aventuras de Tadeo e a Tábua de Esmeralda (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/145897.mp4
+#EXTINF:-1 tvg-name="Scooby-Doo! Gostosuras ou Travessuras (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1P5MaFkphtz5FizzfliFACrWVrSvhi5bsWYtZ3B4xA-MRGP22xejgwtj5PD_nPf9rk.jpg" group-title="Aventura",Scooby-Doo! Gostosuras ou Travessuras (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/145776.mp4
+#EXTINF:-1 tvg-name="Enola Holmes 2 (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1M5bMnvye_UlqWNWrSRO0uaYTD3eJr7-0grpgt8RQeCOogQWQogirjZAzrPzw2Z7mY.jpg" group-title="Aventura",Enola Holmes 2 (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/145438.mp4
+#EXTINF:-1 tvg-name="John e o Potrinho Mágico (2021)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1PS_mWoIc-jsCj1uXWHYWYkT-CZoI8jz0La807CcqIHQViaAnrRSeH27GNKyxnG1rY.jpg" group-title="Aventura",John e o Potrinho Mágico (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/145428.mp4
+#EXTINF:-1 tvg-name="Acampamento Intergaláctico (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1ORiZ_e3y3uBtGwI93SJuV1ElB1J0yjKs1IAn5MF-OOOiSREiVjJygiTSpaMrUHEwU.jpg" group-title="Aventura",Acampamento Intergaláctico (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/145333.mp4
+#EXTINF:-1 tvg-name="A Maldição de Bridge Hollow (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1NaPBB5mkjh3t2YWd8wiaEtTX_28fKZ0sZBWfzAR6oFoPbPR0PALXgEpDzff_GSliw.jpg" group-title="Aventura",A Maldição de Bridge Hollow (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/145241.mp4
+#EXTINF:-1 tvg-name="Monster High: O Filme (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1PKXcof4ycm5F4U9azbNeVZXC_k6Xx8Amjz7saGI7JskKsX-TeEnlfes0CzXsVbcmo.jpg" group-title="Aventura",Monster High: O Filme (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/143551.mp4
+#EXTINF:-1 tvg-name="Esquadrão Secreto (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1MB9xMuiXqXJi5NipGgoYhhcN1NtsGjFbfFhCATuzTYqboIO1RNKQ9BQfVaUaAX7Bs.jpg" group-title="Aventura",Esquadrão Secreto (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/141562.mp4
+#EXTINF:-1 tvg-name="A Fera (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1MTwkpVgkTe9u4k-_M_G4d9tMm__RbwzHrX2cwcAZCu2GhUc94gAoiUog-AyA10ge4.jpg" group-title="Aventura",A Fera (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/141078.mp4
+#EXTINF:-1 tvg-name="Milagre na Caverna" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1PF2PRglWb3HuuuuMu2Y0TAdx3TOhNShqeintNJAh9SQKsvDgB8BuSgHGyN9p0pBM8.jpg" group-title="Aventura",Milagre na Caverna
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/132706.mp4
+#EXTINF:-1 tvg-name="Você Radical com Ranveer Singh e Bear Grylls (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1NRrxQtsO5-FjrtYXrMaqsHFYijDOBDBj78JQvgmAht62CJwqan7_IFJW800ZkFtIo.jpg" group-title="Aventura",Você Radical com Ranveer Singh e Bear Grylls (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/129953.mp4
+#EXTINF:-1 tvg-name="Alice no Mundo da Internet (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1N62nTcvrNtpoqX1Wl8uYhpW885nhWi1l6Zx6po8M7LF_-46Lfgyu-K4H6EaT5Gy0c.jpg" group-title="Aventura",Alice no Mundo da Internet (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/129302.mp4
+#EXTINF:-1 tvg-name="LEGO Star Wars: Férias de Verão (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1Nq9rPh77SgOD4BfYQEyn_Ez43_d6Pevv7yFsyrAjD0P54uoWSyOVHcJQP83WEbiLs.jpg" group-title="Aventura",LEGO Star Wars: Férias de Verão (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/128465.mp4
+#EXTINF:-1 tvg-name="Até os Ratos Merecem o Céu (2021)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1P_nNjyXRvF5spiXIl36hfzgDWoGDR0afpmpAoR0SFJ8epC_ZmYGraWgwvLWW468vI.jpg" group-title="Aventura",Até os Ratos Merecem o Céu (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/127711.mp4
+#EXTINF:-1 tvg-name="Passagem Secreta (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1NCb2_Q9GwIy9g4DqmNba7Hgg5ZCSZwNv01euI84gqcyQEStStYH6QnRxGpaDiNquE.jpg" group-title="Aventura",Passagem Secreta (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/127066.mp4
+#EXTINF:-1 tvg-name="Interceptor (2022)" background="http://newlive7.top:80/images/5824f94ab32027dc5586f9d7f5c8ca68.jpg" group-title="Aventura",Interceptor (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/126348.mp4
+#EXTINF:-1 tvg-name="Frangoelho e o Hamster das Trevas (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1OvTMyseLHFD7YVC54pjSgv6p8CQBHXqmYt4PWSGsOgtR8878MJzej-ZPzjmzek994.jpg" group-title="Aventura",Frangoelho e o Hamster das Trevas (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/126332.mp4
+#EXTINF:-1 tvg-name="D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1MDD0fQW7gt43wfB6dpqYhI-53ajfL3jLp8NXyqjxfmYdLDkcS-xK50V0fjYaX5rcU.jpg" group-title="Aventura",D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/126134.mp4
+#EXTINF:-1 tvg-name="King - Meu Melhor Amigo (2022)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1NPtf35yK5BRUeQZdWQcnZaZiRjYBhFlm3wlFE3umnnIBKP5stGjA7tf8YX3NpMgW8.jpg" group-title="Aventura",King - Meu Melhor Amigo (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/125369.mp4
+#EXTINF:-1 tvg-name="O Projeto Adam (2022)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDDn5OEKljYI_-Cnx3JQgug60MqRiUaXGugYn14IA89c.jpg" group-title="Aventura",O Projeto Adam (2022)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/113130.mp4
+#EXTINF:-1 tvg-name="Victoria e Mistério (2021)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1PJdZPt0ZTHKJJ89YPHlVL8p1fQ4APrxcNRs7simLygazaoisn2PC3jgmP89G-2NW8.jpg" group-title="Aventura",Victoria e Mistério (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/77964.mp4
+#EXTINF:-1 tvg-name="O Homem Água (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLX2P61HYIBNpfVRVBprgscA7Rur9U2D9PLQdCzJtpPwc.jpg" group-title="Aventura",O Homem Água (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/73891.mp4
+#EXTINF:-1 tvg-name="A Abelhinha Maya e O Ovo Dourado (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_1JHOuXr6WzbGj6mUsORr6RPtvoXmi6bSPfuWSWfXZQ.jpg" group-title="Aventura",A Abelhinha Maya e O Ovo Dourado (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/74125.mp4
+#EXTINF:-1 tvg-name="Duna (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoIO50BLvlScUFyWDtdA-PPm1iw1PerqKEO5T7CNpsDs.jpg" group-title="Aventura",Duna (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/72902.mkv
+#EXTINF:-1 tvg-name="Programada para Matar (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqPxoW-5fO2JBBgmQ1NefTDpk9kmCvY0IdfQj5KuXfrM.jpg" group-title="Aventura",Programada para Matar (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65540.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: O Mapa do Tesouro 2 (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLv8hD6bta-OKhXz1cXiOC7kUUb3a-ZT60HKUqg9WvKpA.jpg" group-title="Aventura",Luccas Neto em: O Mapa do Tesouro 2 (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65527.mp4
+#EXTINF:-1 tvg-name="O Legionário (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhTvjY5fQttyd3VQufzGB6zlSHscDAZ5hYLWhDlIv-XQ.jpg" group-title="Aventura",O Legionário (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65345.mp4
+#EXTINF:-1 tvg-name="O Último Viking (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLydKu0kY6FUJ9mSqLnrUw0ELqqPiZu7hocH8-JVx-S6U.jpg" group-title="Aventura",O Último Viking (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65175.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: O Mapa do Tesouro 2 (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLv8hD6bta-OKhXz1cXiOC7kUUb3a-ZT60HKUqg9WvKpA.jpg" group-title="Aventura",Luccas Neto em: O Mapa do Tesouro 2 (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65115.mp4
+#EXTINF:-1 tvg-name="Enola Holmes (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLf2Gsx2-9Xd1KLh6WDC5j_4_WV1tPK9KM30-mN5LPejo.jpg" group-title="Aventura",Enola Holmes (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65086.mp4
+#EXTINF:-1 tvg-name="Ben 10 Contra o Universo: O Filme (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDcpecVauKhh_8i0rWVNEMEEtYKtCY91ByeLi4JA-Z1o.jpg" group-title="Aventura",Ben 10 Contra o Universo: O Filme (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65053.mp4
+#EXTINF:-1 tvg-name="As Panteras (2000)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLOCQV7CSBgdL_zNxA73FhpRQzXNNHcXUMWBdPXV_8Sso.jpg" group-title="Aventura",As Panteras (2000)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65044.mp4
+#EXTINF:-1 tvg-name="Artemis Fowl: O Mundo Secreto (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNfnq5LteUSLiaIGs2PXytT2hPHjYMhvR2-cGlNdhST4.jpg" group-title="Aventura",Artemis Fowl: O Mundo Secreto (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65040.mp4
+#EXTINF:-1 tvg-name="A Caminho da Lua (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZnMQhB86pGA--qngs65Ie_Ps_7qyJd3-uAWXa3a-wyM.jpg" group-title="Aventura",A Caminho da Lua (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65004.mp4
+#EXTINF:-1 tvg-name="#Alive (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhSkd0DhBgIMMggQQIxFfuSOgYbS1xJtpLTucp0zqBNM.jpg" group-title="Aventura",#Alive (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/64997.mp4
+#EXTINF:-1 tvg-name="Uma Aventura LEGO 2 (2019)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLxqfUFr6SoFUtNYnVmbEAPJXO-OyS8QzppViq2GAxwGk.jpg" group-title="Aventura",Uma Aventura LEGO 2 (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/64984.mp4
+#EXTINF:-1 tvg-name="Patrulha Canina: Super Filhotes (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjouo7mOXuFy7X-KNG2EecnB5sPW5J0Al89NNK7SfcG0.jpg" group-title="Aventura",Patrulha Canina: Super Filhotes (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/64957.mp4
+#EXTINF:-1 tvg-name="O Quebra-Nozes e os Quatro Reinos (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLMoDjQwfe4PT6tg8ZIOQdf-4-Msy4xeZ93UkGXlhrXJg.jpg" group-title="Aventura",O Quebra-Nozes e os Quatro Reinos (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/64945.mp4
+#EXTINF:-1 tvg-name="Ma - Ela Vai Cuidar de Você" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL_0LUVI-T4IP7EnyrlfRKZTaZR9pURmXBB7AlJ-xTLak.jpg" group-title="Aventura",Ma - Ela Vai Cuidar de Você
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/64910.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Dia das Crianças (2019)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4v2-fItKTEjpxeyFA9Lz7kkvqsJB6E5ZzB4X7gGLWxs.jpg" group-title="Aventura",Luccas Neto em: Dia das Crianças (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/64907.mp4
+#EXTINF:-1 tvg-name="Juntos para Sempre (2019)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhDzMSLZ6AUNsfkaFs3MIcgXEMxqXBAmmdo85hbP9YBo.jpg" group-title="Aventura",Juntos para Sempre (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/64901.mp4
+#EXTINF:-1 tvg-name="Dora e a Cidade Perdida (2019)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRhIa3IWbgu9GrbqQvvSV4W-dO4Vo6_CPLt1hhYKaPYA.jpg" group-title="Aventura",Dora e a Cidade Perdida (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/64868.mp4
+#EXTINF:-1 tvg-name="D.P.A. - O Filme 2: O Mistério Italiano (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLn_NJFEYU3Hic5NrKzZ_Uaxi1jlobPz8m2USckRacSJ8.jpg" group-title="Aventura",D.P.A. - O Filme 2: O Mistério Italiano (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/64865.mp4
+#EXTINF:-1 tvg-name="A Menina e o Leão (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqDjFBs5m-aX8W6CTFZpGj3UUD4GA5ZNE0BjmjXjSEWk.jpg" group-title="Aventura",A Menina e o Leão (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/64822.mp4
+#EXTINF:-1 tvg-name="Abra Suas Asas (2019)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFzZ9nm2_XZN3Bm-CZwNKhePb6dUCMZhxVHggXCK5QJs.jpg" group-title="Aventura",Abra Suas Asas (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/42208.mp4
+#EXTINF:-1 tvg-name="Cidade de Gelo (2020)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1MaKq-IAmpeqiE-kyayzGjVm74tyK-u93xeid6xAepKS3gpHowiuK5LUwHssWjOJlA.jpg" group-title="Aventura",Cidade de Gelo (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/42268.mp4
+#EXTINF:-1 tvg-name="Flora e Ulysses (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhO-HitU7GWu3bDv8gvUYnB_eYQGnPh9cTAdAjAI_-Bs.jpg" group-title="Aventura",Flora e Ulysses (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/42323.mp4
+#EXTINF:-1 tvg-name="Milagre Azul (2021)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1O9tPzEwWf-ujFdj9fBstVDDGj67Z8l_3WsUw4FkT12efFaJx0t5s56WudVLBQDCfs.jpg" group-title="Aventura",Milagre Azul (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/42380.mp4
+#EXTINF:-1 tvg-name="O Dom da Serpente (2020)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLaXpsGxmTs5F8UjALfezy_kjgF9G9dtSFmmJi3NKHokM.jpg" group-title="Aventura",O Dom da Serpente (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/42419.mp4
+#EXTINF:-1 tvg-name="O Legendario (2020)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1MaksHxXTA5RKzv58rVZWaPrCCPX1DAA0PN8F6dQ2hkXNXg3pTWK3Ol4VDdrbu3H8w.jpg" group-title="Aventura",O Legendario (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/42430.mp4
+#EXTINF:-1 tvg-name="Cosmoball: Os Guardiões do Universo (2020)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1OBe9sCLoRcqsLmiTVSbXE8rp-Sh5UY_Upx0oy9VHeV8OMQzbmyvASOBT42JO93a2U.jpg" group-title="Aventura",Cosmoball: Os Guardiões do Universo (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/42699.mp4
+#EXTINF:-1 tvg-name="Mulan (2020)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1Mm6IL1bnEuWXZrMHqM29n40TMes-Il31bEz-oX82BChIVTsIPuOXYJbX6Vx4Mg70I.jpg" group-title="Aventura",Mulan (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/42103.mp4
+#EXTINF:-1 tvg-name="Infinito (2021)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1OuIMNdvZqT5UPJOkxgj6BHdItZztGhZiLe0EPO9UMAVoszEHS7Z-Bw5NVjsQjUdtc.jpg" group-title="Aventura",Infinito (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/41936.mkv
+#EXTINF:-1 tvg-name="Um Lobo em Pele de Cordeiro (2016)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1P51hGpxzVrZYY1tIJPWTlYhqIDJJTaASJhSdsJwy4Pqwvfw27p2v3udUeFeSurx_g.jpg" group-title="Aventura",Um Lobo em Pele de Cordeiro (2016)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/40891.mp4
+#EXTINF:-1 tvg-name="Lupin III: O Primeiro (2019)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1Ml1HXa1vbBehbX-zWMPFzTAC1_QVlGC4dqMAGJr_b27JRGVssC7nElsvqN6w9lGA4.jpg" group-title="Aventura",Lupin III: O Primeiro (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/40869.mp4
+#EXTINF:-1 tvg-name="Turma da Mônica: Laços (2019)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1Pb4EWKoRKKzx9-B1BdV1BR2WQJWUVFXWgDZiGDN9WZem2KHE7GJTYldjgdkLSspcs.jpg" group-title="Aventura",Turma da Mônica: Laços (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/40831.mp4
+#EXTINF:-1 tvg-name="Em Busca do Castelo Dourado (2019)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvLWUozH5XdYOdvMMHVFWFjXdegoY3xfsNApVCI1r6do.jpg" group-title="Aventura",Em Busca do Castelo Dourado (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/40818.mp4
+#EXTINF:-1 tvg-name="O Agente Secreto de Bixler (2019)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpNn5PqHP2cF2isd4pvqiTUJEZCupYfU57IqYLCtHO-4.jpg" group-title="Aventura",O Agente Secreto de Bixler (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/40740.mp4
+#EXTINF:-1 tvg-name="Juntos para Sempre (2019)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1NodWrRzDsvTlLs9035Q8dmI6_8NlSSY5PKMmBXLy0DbDEls72lWPKwYCFG-_jccmw.jpg" group-title="Aventura",Juntos para Sempre (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/40695.mp4
+#EXTINF:-1 tvg-name="Hellboy (2019)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1NAi3o8J3OilDmZPRQw_NldVh88aWNe-ObUgHp0Z0i1MS796dghGjOb9pOf13EW8ss.jpg" group-title="Aventura",Hellboy (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/40678.mp4
+#EXTINF:-1 tvg-name="Astro Kid (2019)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1Ne8LoPPnnkE-0MHfX7zku3cTRP1F8ddAV5ToKSpfX76XHHOnZnCD3P5LemWf8Qt-U.jpg" group-title="Aventura",Astro Kid (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/40615.mp4
+#EXTINF:-1 tvg-name="Jungle Cruise (2021)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1MTjFv6cvxC44r-lF8uv45yud1c2e0dtIqSeXezqpsjDToln6Lda0AMAj8rPDBV8vI.jpg" group-title="Aventura",Jungle Cruise (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/41700.mp4
+#EXTINF:-1 tvg-name="Uma Noite de Crime 5:  A Fronteira (2021)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1OLqxO4NP6_23peeQYaIoJ809irBvVNzc2pJB-y6QVc7vKRmGcIQnjLF5pU-u-XFng.jpg" group-title="Aventura",Uma Noite de Crime 5:  A Fronteira (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/28222.mp4
+#EXTINF:-1 tvg-name="Viúva Negra (2021)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1N1f3yHIp5QF8K0ZdNhlcIYvh3p1kC9RGmqj3ymsCUajGttA-ts0ft3h2Fw16XYPg8.jpg" group-title="Aventura",Viúva Negra (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/28009.mkv
+#EXTINF:-1 tvg-name="Como Virei Super-Herói (2020)" background="http://novolive7.top:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1NRv0VYgJ29iuRPP6_taWOhC_l4os356uM4Y-b6zU9nKJbm42qm3TEp3lKfB8IS1nQ.jpg" group-title="Aventura",Como Virei Super-Herói (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/28002.mkv
+#EXTINF:-1 tvg-name="Jack: O Caçador de Gigantes (2013)" background="http://novolive7.top:80/images/snkpTalJpgCqGOnsSnAOTjjNCYB6xC0WO1NuIrnCvlyk6rPsJRjYJc-2U2Wgmtyzqmvg2hsXBj1ZquS24erhWP4s-70EOIt76W787F7XK9Y.jpg" group-title="Aventura",Jack: O Caçador de Gigantes (2013)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/2303.mp4
+#EXTINF:-1 tvg-name="O Senhor dos Anéis: A Sociedade do Anel (2001)" background="http://newlive7.top:80/images/aa4370b7f2175a569213f73089111dd9.jpg" group-title="Aventura",O Senhor dos Anéis: A Sociedade do Anel (2001)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/2133.mp4
+#EXTINF:-1 tvg-name="O Senhor dos Anéis: O Retorno do Rei (2003)" background="http://novolive7.top:80/images/snkpTalJpgCqGOnsSnAOTjjNCYB6xC0WO1NuIrnCvlzKTv4LETJ6ckkSmAVk4Sle7GWTSQ2gMIAVL1shH-2sNPAPBFyupARFrvSKQJJHvxk.jpg" group-title="Aventura",O Senhor dos Anéis: O Retorno do Rei (2003)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/2132.mp4
+#EXTINF:-1 tvg-name="O Senhor dos Anéis: As Duas Torres (2002)" background="http://newlive7.top:80/images/a78ca6a2c807ea8027e7141670414780.jpg" group-title="Aventura",O Senhor dos Anéis: As Duas Torres (2002)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/2131.mp4
+#EXTINF:-1 tvg-name="O Hobbit: A Batalha dos Cinco Exércitos (2014)" background="http://novolive7.top:80/images/snkpTalJpgCqGOnsSnAOTjjNCYB6xC0WO1NuIrnCvlzNBnuZRy3UISQoSKWbOPZCXuNH_v8rUsAz0muVD2V1hJSWvM9Zco1ZMsD_BdrUQz8.jpg" group-title="Aventura",O Hobbit: A Batalha dos Cinco Exércitos (2014)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/2009.mp4
+#EXTINF:-1 tvg-name="O Hobbit: A Desolação de Smaug (2013)" background="http://novolive7.top:80/images/snkpTalJpgCqGOnsSnAOTjjNCYB6xC0WO1NuIrnCvlzWDcuEdCrbXPTUHV0_djMkb1tVW1_I2svrGZ43Cb9DgEr1Z6g103q13ySJ8UufA68.jpg" group-title="Aventura",O Hobbit: A Desolação de Smaug (2013)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/2008.mp4
+#EXTINF:-1 tvg-name="A Bússola de Ouro (2007)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLi8Gp7jrbHc-7KQ6Tpa4KdW6q7qkssErZ0HNV1U0B4rk.jpg" group-title="Aventura",A Bússola de Ouro (2007)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/1887.mp4
+#EXTINF:-1 tvg-name="O Rei Leão (2019)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF9IHZjgdNp3Lcm-E5aC_xXqwCEcGVgMV1mXCB5leB0E0bQnfk_vbiHrOSnM_iOCTok.jpg" group-title="Aventura",O Rei Leão (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/963.mp4
+#EXTINF:-1 tvg-name="Malévola: Dona do Mal (2019)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF9HWACtitywSo82xhhuIN6tEHLIPKfawtuHHU7wbmyjCaVWH22jxcn63QfwVezPlmU.jpg" group-title="Aventura",Malévola: Dona do Mal (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/941.mp4
+#EXTINF:-1 tvg-name="Jumanji: Próxima Fase (2019)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF_LodfuGjxIpv4nKuQKbhvsRJaWdJFWCMUGUSPNdosWFn4KtccwAAwRpa8yJUDgUBU.jpg" group-title="Aventura",Jumanji: Próxima Fase (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/930.mp4
+#EXTINF:-1 tvg-name="Abigail e a Cidade Proibida (2019)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF-aLbk78YPSY9drps18YJFLNXyqeXP1rL0Wc0dkqC41oiY72dsS6zaTLYSul5C_cFY.jpg" group-title="Aventura",Abigail e a Cidade Proibida (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/885.mp4
+#EXTINF:-1 tvg-name="Os Jovens Titãs em Ação! Nos Cinemas (2018)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF85hbtYTuXKPZKJdAjgQbGUYaNy6ScBwGjj-a9I7-ZFOHtwJuIelnjK7YczJLHZe-c.jpg" group-title="Aventura",Os Jovens Titãs em Ação! Nos Cinemas (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/743.mp4
+#EXTINF:-1 tvg-name="Esquadrão Suicida: Acerto de Contas (2018)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF_qbqA4lJ4vAlwkrI0DHk75NPLGvm8mPz15qovcLoxkfVazytE-Dw5wzovfnZ9Qnys.jpg" group-title="Aventura",Esquadrão Suicida: Acerto de Contas (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/741.mp4
+#EXTINF:-1 tvg-name="Esquadrão Suicida (2016)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF8UQs-A1wUiub_4mwLzA7YTrMS8RcRQX7rzS9B3fDYvwtHNPGmnpbjgU1_30WfDe50.jpg" group-title="Aventura",Esquadrão Suicida (2016)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/740.mp4
+#EXTINF:-1 tvg-name="Hirokin O Último Samurai (2012)" background="http://newlive7.top:80/images/6aad12f4dacaf11a05778b0d620ef1b2.jpg" group-title="Aventura",Hirokin O Último Samurai (2012)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/705.mp4
+#EXTINF:-1 tvg-name="Rampage: Destruição Total (2018)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF9cm2KQQ5VjAiWBdgPRXbYjLyS5l3mhkKHbd8EOLXWqRdkViwOjeiPS6nHCrXXaGmA.jpg" group-title="Aventura",Rampage: Destruição Total (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/676.mp4
+#EXTINF:-1 tvg-name="Pokémon: Detetive Pikachu (2019)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF-pVxjScW7ZJBKhTYVwcVEfxD0p_LKT-Hm5eONumYlP1U42881GJhFJCcbRFK9BJZA.jpg" group-title="Aventura",Pokémon: Detetive Pikachu (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/675.mp4
+#EXTINF:-1 tvg-name="O Hobbit: Uma Jornada Inesperada (2012)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF_WNkVAcsNSKJtIpxcbzejTpvxqjSXCGhb-fon9fR3xvwafj1FYIIwW7h7XrqD5YJI.jpg" group-title="Aventura",O Hobbit: Uma Jornada Inesperada (2012)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/673.mp4
+#EXTINF:-1 tvg-name="O Agente da U.N.C.L.E. (2015)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF-ubMydyhKF7hXMxQvUrXiv88PE1ly4xzTnqt2Ji4OPTLbxfztdqv4ZrXiaqtdQ-7A.jpg" group-title="Aventura",O Agente da U.N.C.L.E. (2015)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/672.mp4
+#EXTINF:-1 tvg-name="Náufrago (2000)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF_thJNjXMm-3MqXLoVJ75iaOawY2uJTGHUKVIAOuuVMttsbOPD_1M8QjU8OPK5tfWI.jpg" group-title="Aventura",Náufrago (2000)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/671.mp4
+#EXTINF:-1 tvg-name="Mogli: Entre Dois Mundos (2018)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF-MdEvR5o2WWtZcaakA2B8-No_8OANCZSKu0CODHQv4TCoc8jonCwZcBs2MO-gGLTM.jpg" group-title="Aventura",Mogli: Entre Dois Mundos (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/670.mp4
+#EXTINF:-1 tvg-name="Missão Dragão - Sua História (2019)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF8535WtFtPRNI41lF9SCCVf8MV5eTkoMiJo0_B2w_Re0w8YbFWugd5mnURV1zRPJY0.jpg" group-title="Aventura",Missão Dragão - Sua História (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/669.mp4
+#EXTINF:-1 tvg-name="Luccas Neto em: Dia das Crianças (2019)" background="http://newlive7.top:80/images/af7fda652c7dfbb287a0f865331d8921.jpg" group-title="Aventura",Luccas Neto em: Dia das Crianças (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/668.mp4
+#EXTINF:-1 tvg-name="Kong: A Ilha da Caveira (2017)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF9xJzfhmfScKHf3PC7oALhTRsCTAT_Ss6KYZYQ7QdzRoWchW3HzVhUcgzIC0eLY46o.jpg" group-title="Aventura",Kong: A Ilha da Caveira (2017)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/667.mp4
+#EXTINF:-1 tvg-name="Jogador N° 1 (2018)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF-SM9XEWPYmzhEnuhCJwSBkf0mmjHfc-fLGQ4r1G9lL01U6QcNLxKMi4Y4Ii9W71Ec.jpg" group-title="Aventura",Jogador N° 1 (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/665.mp4
+#EXTINF:-1 tvg-name="Era uma Vez: Anastasia (2020)" background="http://novolive7.top:80/images/4gF01SVGVKoVrrbnhHStopeWNYRlfjGx-XsnKv5BuF-xATWyCzZh5OmSPmuduNVBAG4C83YUzVNArWvQvNuLqN-RD8X6dW_1jTbARN6JnOQ.jpg" group-title="Aventura",Era uma Vez: Anastasia (2020)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/663.mp4
+#EXTINF:-1 tvg-name="Duendes e Dragões (2018)" background="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuGsb3dY9BHpaOHK5AUpS68gOuH.jpg" group-title="Aventura",Duendes e Dragões (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/661.mp4
+#EXTINF:-1 tvg-name="As Fantásticas Aventuras de Spirou e Fantasio (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL8WPBBczsKSEmgzOBfHA9LEzXYmENH3yGtQoeP-h96sk.jpg" group-title="Aventura",As Fantásticas Aventuras de Spirou e Fantasio (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/659.mp4
+#EXTINF:-1 tvg-name="Uma Aventura Selvagem (2021)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLeWhdGGhVeRfVEqk_NC34iPcMQ7qBtNlxa_S0HujTq80.jpg" group-title="Aventura",Uma Aventura Selvagem (2021)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/242613.mp4
+#EXTINF:-1 tvg-name="Os Últimos Cavaleiros (2015)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLHBpKhu5WqzZG4s5bIBxDT1_3CMs9ynPGcFmPxvSESs8.jpg" group-title="Aventura",Os Últimos Cavaleiros (2015)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/240203.mp4
+
 #EXTINF:-1 tvg-name="Amigos Alienígenas (2018)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLft3inm_ovgNurect1RIpvkG19Asw5IWILUrQH9D7aEI.jpg" group-title="",Amigos Alienígenas (2018)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/301562.mp4
 #EXTINF:-1 tvg-name="As Aventuras de Peabody e Sherman (2014)" background="http://novolive7.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLampe8yBWzjLtaWmszZtJLtQItKZWhCHBhVJ4H5jt1Xg.jpg" group-title="",As Aventuras de Peabody e Sherman (2014)
